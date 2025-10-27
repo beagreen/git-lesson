@@ -2,3 +2,5 @@
 - use ctrl-P to open command panel
 - use "[ ]" to create a check list
 - [ ] example
+- use "[x]" to tick off check list item
+- [x] example
