@@ -4,5 +4,5 @@
 - [ ] example
 - use "[x]" to tick off check list item
 - [x] example
-- If you put "~" around text "~" it will appear to be crossed out
+- If you put " ~ " around text " ~ " it will appear to be crossed out
  - ~example~
